@@ -1,0 +1,23 @@
+.or-seo-meta-box-container {
+    padding: 10px;
+}
+
+.or-seo-meta-box-container textarea {
+    width: 100%;
+    margin-bottom: 10px;
+}
+
+#or-seo-status-message {
+    margin-top: 10px;
+    font-style: italic;
+    color: #666;
+}
+
+#or-seo-connection-status {
+    margin-left: 10px;
+    font-weight: bold;
+}
+
+.spinner.is-active {
+    visibility: visible;
+}
